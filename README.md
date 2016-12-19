@@ -1,4 +1,4 @@
-# 正在维护中
+# 正在维护中,日后更新
 # ReconstructionList
 https://en.wikipedia.org/wiki/Structure_from_motion
 
